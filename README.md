@@ -1,1 +1,2 @@
 # bajnokorarend
+segitseg
